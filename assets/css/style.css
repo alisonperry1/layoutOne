@@ -23,14 +23,12 @@ html {
 position: relative;
 min-height: 100%;
 }
-.footer {
+.footer-wrapper {
 position: absolute;
-left: 0px;
-bottom: 0px;
+left: 0;
+bottom: 0;
 height: 200px;
 width: 100%;
-background: black;
-color: white;
 }
 h3 {
 font-size: 20px;
